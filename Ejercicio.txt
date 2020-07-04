@@ -1,0 +1,30 @@
+FUNCIONES:
+1. Abonar / Depositar
+2. Retirar dinero / Pagar Deuda
+
+TIPOS DE CUENTA:
+1. Cuenta Corriente
+2. Cuenta SobreGiro
+3. Cuenta Ahorro
+
+Cuenta Corriente: 
+Monto: 20.000.-
+
+Cuenta Ahorro: 
+Monto: 50.000.-
+
+Cuenta Sobregiro:
+Monto: 100.000.-
+
+Deudas:
+--------
+Deuda > Monto Cuenta Corriente
+ - Restar el valor de la cuenta corriente + Cuenta sobregiro
+
+Saber si la persona esta sobregirada o no.
+    Estoy con Sobregiro ?
+
+Sobregiro < Cuenta Ahorro
+ - Pregunta; Quiere pagar la cuenta de sobregiro con sus ahorros? SI o NO
+------------------------------------------------------------------------------------------
+Desplegar los valores actuales de todas las cuentas, y para conocer deudas o saldos negativos
